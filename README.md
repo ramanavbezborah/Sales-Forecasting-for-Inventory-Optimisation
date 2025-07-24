@@ -72,7 +72,7 @@ This project focuses on improving inventory management for an independent superm
 - Leverages the strengths of each individual model
 
 **🖼️ Fig D: Combined Forecast Output**  
-![alt text](assets/combined_forecast_graph.png)
+![alt text](assets/combined_forecast.png)
 
 ---
 
@@ -109,7 +109,7 @@ This project focuses on improving inventory management for an independent superm
 ## 🚀 Getting Started
 
 1. Download the Excel workbook from this repository
-2. Open `Assessment 2 Problem 1.xlsx`
+2. Open `Enterprise Data.xlsx` <a href="https://github.com/ramanavbezborah/Sales-Forecasting-for-Inventory-Optimisation/blob/08e88620ff3ffea50c236dc916a9ff30e5f7549e/assets/Enterprise%20Data.xlsx" download>Get Dataset Here </a>
 3. Navigate to each method’s worksheet
 4. Use Solver to minimize RMSE and observe forecast outputs
 
