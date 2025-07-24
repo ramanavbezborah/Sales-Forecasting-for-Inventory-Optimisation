@@ -42,7 +42,7 @@ This project focuses on improving inventory management for an independent superm
 - Uses Excel Solver to optimize level & trend parameters
 
 **🖼️ Fig A: Solver Output – Holt’s Linear Trend**  
-![alt text](assets/solver_holt_linear.png)
+![alt text](assets/solver_holt_linear.jpg)
 
 ---
 
